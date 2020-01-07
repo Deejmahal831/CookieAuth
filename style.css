@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+    background-image: url("img/AgeBG.png");
+    background-repeat: repeat;
+}
+.button{
+    background-color: #FD746D;
+    border: 3px solid black;
+    color: black;
+    padding: 20px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 25px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.container{
+    color: black;
+    background-color: #C97591;
+    border: 5px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 200px auto;
+    font-size: 40px;
+    padding: 50px 10px 50px 10px;
+    text-align: center;
+    width: 50%;
+}
+div .caution{
+    font-size: 12px;
+    padding: 15px 32px;
+    color: black;
+}
+select{
+    background-color: #FD746D;
+    border: 3px solid black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin: 0 0 20px 0;
+    padding: 5px 8px;
+}
+.top{
+    color: red;
+    font-size: 56px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 0 0 20px 0;
+}
